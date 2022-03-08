@@ -1,0 +1,11 @@
+"# These are randomly generated made-up names, see https://github.com/SurgicalInformatics/world_hospitals/blob/master/world_hospitals_globalsurg.csv for a curated list of world hospitals that have taken part in any of the GlobalSurg studies",,,,,,
+record_id,country,city,hospital_name,short_name,study_taakingpart,valreg_status
+10001,Ironvale,Greytown,General Hospital,ir_grey_gen,Entered data,Validator registered
+10002,Ironvale,Greytown,Cancer Hospital,ir_grey_canc,Entered data,Validator needed
+10003,Ironvale,Stonemount,General Hospital,ir_stone_gen,Entered data,Validator needed
+20001,Lochland,Brightlake,General Hospital,lo_bright_gen,Entered data,Validator registered
+20002,Lochland,Highshore,Royal Infirmary,lo_highsh_roy,Entered data,Validator needed
+30001,Orville,Wheatbarrow,Main Hospital,or_wheat_main,Entered data,Validator registered
+40001,Wilarith,Fallbeach,City Hospital,wi_fall_city,Entered data,Validator needed
+40002,Wilarith,Fallbeach,Cancer Hospital,wi_fall_canc,Registered to take aprt,Validator needed
+40003,Wilarith,Shoreburn,Children's Hospital,wi_shore_child,Not registered for this study,Not needed
